@@ -1,6 +1,6 @@
 name: coffeico
 description: "Free icons for different coffee brewing methods"
-version: 0.3.1
+version: 0.3.0
 homepage: https://github.com/typomanka/coffeico
 repository: https://github.com/typomanka/coffeico
 
@@ -56,4 +56,4 @@ flutter:
   fonts:
     - family: Coffeico
       fonts:
-        - asset: lib/fonts/Coffeico.ttf
+        - asset: fonts/Coffeico.ttf
