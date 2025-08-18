@@ -13,3 +13,7 @@
 ## 0.3.0
 
 * feat: add hario_switch
+
+## 0.3.1
+
+* fix: Update font asset path for Flutter 3.35+
