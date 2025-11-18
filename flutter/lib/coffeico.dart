@@ -131,4 +131,19 @@ class Coffeico {
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
+  static const IconData april_brewer = IconData(
+    0xf11a,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+  static const IconData ceado_hoop_brewer = IconData(
+    0xf11b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+  static const IconData oxo_rapid_brewer = IconData(
+    0xf11c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 }
