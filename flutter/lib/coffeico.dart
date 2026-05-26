@@ -146,4 +146,14 @@ class Coffeico {
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
+  static const IconData timermore_b75 = IconData(
+    0xf11d,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+  static const IconData espro_bloom = IconData(
+    0xf11e,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 }
