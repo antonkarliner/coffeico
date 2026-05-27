@@ -21,3 +21,7 @@
 ## 0.5.0
 
 * feat: add april_brewer, ceado_hoop_brewer, oxo_rapid_brewer, timermore_b75, espro_bloom
+
+## 0.6.0
+
+* feat: add menu

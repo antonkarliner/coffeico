@@ -156,4 +156,9 @@ class Coffeico {
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
+  static const IconData menu = IconData(
+    0xf11f,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 }
