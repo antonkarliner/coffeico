@@ -1,3 +1,8 @@
+## 1.0.1
+
+- Credit typomanka, the creator of the original Coffeico package, in the
+  package description and documentation.
+
 ## 1.0.0
 
 - First independent release prepared under the `coffeico_plus` package name.

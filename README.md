@@ -1,12 +1,13 @@
 # Coffeico Plus
 
 Coffeico Plus is a maintained Flutter icon font for coffee brewing methods,
-equipment, beans, bags, and cupping. It continues the unmaintained
-[Coffeico](https://github.com/typomanka/coffeico) project while preserving its
-`Coffeico` class, icon names, and codepoints.
+equipment, beans, bags, and cupping. It continues
+[Coffeico](https://github.com/typomanka/coffeico), originally created by
+[typomanka](https://github.com/typomanka), while preserving its `Coffeico`
+class, icon names, and codepoints.
 
-The package is prepared for publication on pub.dev as `coffeico_plus`. Until
-the first release is live, use a Git dependency if you need to test it.
+The package is available on pub.dev as
+[`coffeico_plus`](https://pub.dev/packages/coffeico_plus).
 
 ## Repository layout
 

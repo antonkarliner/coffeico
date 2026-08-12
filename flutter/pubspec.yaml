@@ -1,6 +1,6 @@
 name: coffeico_plus
-description: Maintained Flutter icon font for coffee brewing methods, equipment, beans, bags, and cupping.
-version: 1.0.0
+description: Maintained fork of Coffeico by typomanka, providing Flutter icons for coffee brewing methods, equipment, beans, bags, and cupping.
+version: 1.0.1
 homepage: https://github.com/antonkarliner/coffeico
 repository: https://github.com/antonkarliner/coffeico
 issue_tracker: https://github.com/antonkarliner/coffeico/issues

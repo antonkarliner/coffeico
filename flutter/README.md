@@ -1,9 +1,10 @@
 # Coffeico Plus
 
 A maintained Flutter icon font for coffee brewing methods, equipment, beans,
-bags, and cupping. It continues the unmaintained
-[Coffeico](https://github.com/typomanka/coffeico) project while preserving the
-public `Coffeico` class, icon names, and codepoints.
+bags, and cupping. It continues
+[Coffeico](https://github.com/typomanka/coffeico), originally created by
+[typomanka](https://github.com/typomanka), while preserving the public
+`Coffeico` class, icon names, and codepoints.
 
 ## Installation
 
@@ -17,7 +18,7 @@ Or add it directly to `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  coffeico_plus: ^1.0.0
+  coffeico_plus: ^1.0.1
 ```
 
 ## Usage
@@ -41,10 +42,10 @@ Icons inherit the usual `Icon` size and color properties.
   `bee_house_dripper`, `phin_filter`, `neapolitan_flip_pot`, `moka_pot`,
   `siphon_brewer`, `cezve`, `tricolate`, `pulsar`, `ufo_dripper`,
   `orea_brewer`, `april_brewer`, `ceado_hoop_brewer`, `oxo_rapid_brewer`,
-  `timermore_b75`, and `espro_bloom`.
+  `timermore_b75`, `espro_bloom`, `wilfa_svart`, `weber_workshops_bird`, and
+  `cafec_flower`.
 - Coffee and equipment: `bean`, `coffee_maker`, `portafilter`, `bag`,
-  `bag_with_bean`, `wilfa_svart`, `menu`, `weber_workshops_bird`,
-  `cafec_flower`, and `cupping_bowl`.
+  `bag_with_bean`, `menu`, and `cupping_bowl`.
 
 See the bundled [example](example/README.md) for a runnable gallery.
 
