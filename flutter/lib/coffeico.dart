@@ -161,4 +161,19 @@ class Coffeico {
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
+  static const IconData weber_workshops_bird = IconData(
+    0xf120,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+  static const IconData cafec_flower = IconData(
+    0xf121,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+  static const IconData cupping_bowl = IconData(
+    0xf122,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 }
